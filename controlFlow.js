@@ -102,5 +102,4 @@ if (requiredAreaSpace > Area); {
 }
 console.log("There is Enough Space for Plants.");
 
-console.log("Modified .JS content")
-console.log("Part 3 Modified")
+
