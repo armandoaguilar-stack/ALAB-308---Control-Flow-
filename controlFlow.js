@@ -102,4 +102,4 @@ if (requiredAreaSpace > Area); {
 }
 console.log("There is Enough Space for Plants.");
 
-console.log("Testing Git Push")
+console.log("Modified .JS content in Part 2")
